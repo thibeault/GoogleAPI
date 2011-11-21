@@ -226,7 +226,7 @@ public class NickName {
 	  
 	  
 	  /**
-	   * Driver for the sample.
+	   * Driver for the sample..
 	   */
 	  public void run() throws Exception {
 		  
