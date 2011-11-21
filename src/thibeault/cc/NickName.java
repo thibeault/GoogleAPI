@@ -7,7 +7,6 @@ import com.google.gdata.client.appsforyourdomain.EmailListRecipientService;
 import com.google.gdata.client.appsforyourdomain.EmailListService;
 import com.google.gdata.client.appsforyourdomain.NicknameService;
 import com.google.gdata.client.appsforyourdomain.UserService;
-import com.google.gdata.client.calendar.*;
 import com.google.gdata.data.*;
 import com.google.gdata.data.acl.*;
 import com.google.gdata.data.appsforyourdomain.AppsForYourDomainException;
@@ -15,7 +14,6 @@ import com.google.gdata.data.appsforyourdomain.Login;
 import com.google.gdata.data.appsforyourdomain.Nickname;
 import com.google.gdata.data.appsforyourdomain.provisioning.NicknameEntry;
 import com.google.gdata.data.appsforyourdomain.provisioning.NicknameFeed;
-import com.google.gdata.data.calendar.*;
 import com.google.gdata.data.extensions.*;
 import com.google.gdata.util.*;
 
